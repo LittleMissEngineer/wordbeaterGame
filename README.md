@@ -1,1 +1,1 @@
-Adding features to new project
+Adding features to finished project by Traversy Media.
